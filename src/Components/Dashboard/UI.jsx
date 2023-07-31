@@ -28,7 +28,7 @@ const UI = ({ content, setContent }) => {
             md: "block",
           },
           backgroundImage:
-            "url(https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/07/30182024/UX-UI-Design-1024x640.jpg)",
+            "url(https://firebasestorage.googleapis.com/v0/b/customize-pro.appspot.com/o/lkr9voi0?alt=media&token=9597ba2d-c684-46d5-9ad1-2c8a166d7a13)",
           backgroundSize: "contain",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
